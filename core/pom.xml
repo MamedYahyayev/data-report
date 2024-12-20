@@ -12,7 +12,7 @@
 
     <properties>
         <commons.io.version>2.11.0</commons.io.version>
-        <guava.version>33.0.0-jre</guava.version>
+        <guava.version>33.4.0-jre</guava.version>
         <commons.validator.version>1.7</commons.validator.version>
     </properties>
 
